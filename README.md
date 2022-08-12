@@ -14,9 +14,17 @@ This plabook  creates:
     a VCE instance
 
 
-To run:
+To RUN (create):
 
    1.  Edit the yml file and add in your GCP project and name json file name (for creds)
-   2.  Run the execute bash script in this folder
+   2.  Run the execute bash script in this folder (executes the playbook)
+
+To DESTROY/DELETE:
+
+   1. delete_stuff_created_by_this.sh
+
+   
+
+
 
 
